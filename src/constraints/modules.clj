@@ -1,6 +1,5 @@
 (ns constraints.modules
   (:use constraints.elements))
-;  (:use constraints.interface constraints.elements))
 
 (defn celsius-fahrenheit-converter
   "A celsius-fahrenheit converter constraint-network"
