@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"Examples"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "(ns constraints.core\n  (:gen-class)\n  (:use constraints.interface constraints.elements constraints.modules))\n\n\n(defn -main [& args]\n  (println \"nada\"))\n",
+			"file": "src/constraints/core.clj",
+			"file_size": 157,
+			"file_write_time": 129985682100354035,
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Leiningen.sublime-build",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"build",
+				"Build: Test"
+			],
+			[
+				"buid",
+				"Build: Test"
+			],
+			[
+				"buil",
+				"Build: Run"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"bui",
+				"Build: Run"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/test/constraints/elements_test.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/test/constraints/modules_test.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/modules.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/test/constraints/core_test.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/declarative.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/elements.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/interface.clj",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/lispindent/lispindent.sublime-settings",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/declarative.clj.2",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/core.clj",
+		"/C/Users/josteink/Desktop/MailLinkLog/log-server.txt",
+		"/C/Users/josteink/Desktop/MailLinkLog/server-times.txt",
+		"/C/Users/josteink/Desktop/MailLinkLog/log2.txt",
+		"/C/Users/josteink/Desktop/MailLinkLog/log-error.txt",
+		"/C/Users/josteink/Desktop/MailLinkLog/log1029_1.txt",
+		"//pekka/baser/MailLinkLog/log1029_1.txt",
+		"/C/Users/josteink/Desktop/regkeyz.reg",
+		"/C/seven/Releases/Release71SR1/Clients/SM.win/modules/MailPlugins/MailLinks.sln",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/constraints.sublime-project",
+		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/src/graph_repl/core.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/project.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/graph-repl.sublime-project",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/josteink/Dropbox/Code/IronScheme/test.ss",
+		"/C/Users/josteink/Dropbox/Code/Clojure/incanter/project.clj",
+		"/C/Users/josteink/Dropbox/Code/Clojure/incanter/src/incanter/core.clj",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/Default (Windows).sublime-keymap",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+		"/C/Users/josteink/Dropbox/Code/Clojure/sublime-test/doc/intro.md",
+		"/C/Users/josteink/Dropbox/Code/Clojure/sublime-test/docs/toc.html",
+		"/C/Users/josteink/Dropbox/Code/Clojure/sublime-test/docs/sublime-test.core.html",
+		"/C/Users/josteink/Dropbox/Code/Clojure/sublime-test/project.clj",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/User/Leiningen.sublime-build",
+		"/C/Users/josteink/.lein/profiles.clj",
+		"/C/Users/josteink/Documents/test.clj",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")))\n",
+			"^\\s+",
+			"^\\s",
+			"WITH HALT",
+			"\\Software\\",
+			"addinnew",
+			"\n",
+			"[",
+			")",
+			"\"\n",
+			"lein\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(def "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/constraints/core.clj",
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
