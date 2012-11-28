@@ -2,7 +2,9 @@
   (:use constraints.elements))
 ;  (:use constraints.interface constraints.elements))
 
-(defn celsius-fahrenheit-converter [c f]
+(defn celsius-fahrenheit-converter
+  "A celsius-fahrenheit converter constraint-network"
+   [c f]
 	(let [u (make-connector)
 		  v (make-connector)
 		  w (make-connector)

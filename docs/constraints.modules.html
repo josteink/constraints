@@ -3030,8 +3030,9 @@ net.brehaut.ClojureTools = (function (SH) {
 })(SyntaxHighlighter);
 </script><title>constraints -- Marginalia</title></head><body><table><tr><td class="docs"><div class="docs-header"><a class="anchor" href="#constraints.modules" name="constraints.modules"><h1 class="project-name">constraints.modules</h1><a class="toc-link" href="toc.html">toc</a></a></div></td><td class="codes" /></tr><tr><td class="docs">
 </td><td class="codes"><pre class="brush: clojure">(ns constraints.modules
-  (:use constraints.elements))</pre></td></tr><tr><td class="docs">
-</td><td class="codes"><pre class="brush: clojure">(defn celsius-fahrenheit-converter [c f]
+  (:use constraints.elements))</pre></td></tr><tr><td class="docs"><p>A celsius-fahrenheit converter constraint-network</p>
+</td><td class="codes"><pre class="brush: clojure">(defn celsius-fahrenheit-converter
+   [c f]
 	(let [u (make-connector)
 		  v (make-connector)
 		  w (make-connector)

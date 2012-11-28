@@ -12,10 +12,7 @@
 	"buffers":
 	[
 		{
-			"contents": "(ns constraints.core\n  (:gen-class)\n  (:use constraints.interface constraints.elements constraints.modules))\n\n\n(defn -main [& args]\n  (println \"nada\"))\n",
 			"file": "src/constraints/core.clj",
-			"file_size": 157,
-			"file_write_time": 129985682100354035,
 			"settings":
 			{
 				"buffer_size": 152,
@@ -31,7 +28,7 @@
 		[
 			[
 				"build",
-				"Build: Test"
+				"Build: Documentation"
 			],
 			[
 				"buid",
@@ -70,7 +67,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 536.0
 	},
 	"console":
 	{
@@ -87,6 +84,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/constraints.sublime-project",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/README.md",
+		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/doc/api/constraints.core.html",
 		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/test/constraints/elements_test.clj",
 		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/test/constraints/modules_test.clj",
 		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/src/constraints/modules.clj",
@@ -108,7 +108,6 @@
 		"/C/Users/josteink/Desktop/regkeyz.reg",
 		"/C/seven/Releases/Release71SR1/Clients/SM.win/modules/MailPlugins/MailLinks.sln",
 		"/C/Users/josteink/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
-		"/C/Users/josteink/Dropbox/Code/Clojure/constraints/constraints.sublime-project",
 		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/src/graph_repl/core.clj",
 		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/project.clj",
 		"/C/Users/josteink/Dropbox/Code/Clojure/graph-repl/graph-repl.sublime-project",
